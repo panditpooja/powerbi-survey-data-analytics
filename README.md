@@ -2,7 +2,7 @@
 # 📊 Data Professional Survey Dashboard in Power BI
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboard-yellow?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
-[![Excel](https://img.shields.io/badge/Data-CSV-brightgreen?logo=read-the-docs)]()
+[![Excel](https://img.shields.io/badge/Data-Excel-brightgreen?logo=read-the-docs)]()
 
 This repository contains an interactive Power BI dashboard created to analyze and visualize insights from a **Data Professional Survey** dataset. The dashboard highlights salary trends, job satisfaction, and skill preferences among data professionals worldwide.  
 
